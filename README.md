@@ -1,2 +1,2 @@
 # demuxgo
-A demultiplexing tool for fastq sequence files written in go
+A demultiplexing tool for fastq sequence files
